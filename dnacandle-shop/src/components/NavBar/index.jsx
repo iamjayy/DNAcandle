@@ -24,8 +24,8 @@ const NavBar = ({ basketItems, totalCost }) => {
               color="inherit"
             >
               <img
-                src="https://cdn.dribbble.com/users/1672258/screenshots/10442600/media/8ac4039dabbc4ba56d0845b66254887f.png?compress=1&resize=400x300"
-                alt="DwinaTech logo"
+                src="https://i.pinimg.com/originals/24/86/c9/2486c9efa3114ebb125021ac3313dfe7.png"
+                alt="wine logo"
                 height="25px"
                 className="logo"
               />
