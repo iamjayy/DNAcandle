@@ -24,7 +24,7 @@ const NavBar = ({ basketItems, totalCost }) => {
               color="inherit"
             >
               <img
-                src="https://scalebranding.com/wp-content/uploads/2020/10/Letter-A-fire-Candle.jpg"
+                src="https://cdn.dribbble.com/users/1672258/screenshots/10442600/media/8ac4039dabbc4ba56d0845b66254887f.png?compress=1&resize=400x300"
                 alt="DwinaTech logo"
                 height="25px"
                 className="logo"
