@@ -3,6 +3,7 @@ import { commerce } from "./lib/commerce";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Products from "./components/Products";
 import NavBar from "./components/NavBar";
+import Footer from "./components/Footer";
 
 const App = () => {
   const [products, setProducts] = useState([]);
@@ -25,6 +26,7 @@ const App = () => {
             <Products products={products} />
           </Route>
         </Switch>
+        <Footer />
       </div>
     </Router>
   );
